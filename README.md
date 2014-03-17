@@ -1,5 +1,4 @@
-# MATLAB Spring 2014 – Research Plan (Template)
-(text between brackets to be removed)
+# MATLAB Spring 2014 – Research Plan
 
 > * Group Name: PrisonBreak
 > * Group participants names: Robert H.W. ten Brincke
