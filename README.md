@@ -44,7 +44,8 @@ Camerer, C. F. (2003). "Behavioral game theory: Experiments in strategic interac
 Gonzalez, C., Ben-Asher, N., Martin, J. M., & Dutt, V. (in press). Emergence of cooperation with increased information: Explaining the process with instance-based learning models. Cognitive Science.
 
 Gonzalez, C. and Ben-Asher, N (under review). Learning to cooperate in the Prisoner's Dilemma: Robustness of Predictions of an Instance-Based Learning Model. Cognitive Science.
-Murphy, R. O., & Ackermann, K. A. (2013). Social value orientation: Theoretical and measurement issues in the study of social preferences. Personality and Social Psychology Review (in press).
+
+Murphy, R. O., & Ackermann, K. A. (2013). Social value orientation: Theoretical and measurement issues in the study of social preferences. Personality and Social Psychology Review (in press).
 
 Poundstone, William. "Prisoner's Dilemma: John von Neuman, Game Theory, and the Puzzle of the Bomb." (1992). University of Michigan Press.
 
@@ -52,10 +53,12 @@ Rabin, Matthew. "Incorporating fairness into game theory and economics." Advance
 
 Rapoport, A., & Chammah, A. M. (1965). "Prisoner's dilemma: A study in conflict and cooperation." Ann Arbor: University of Michigan Press.
 
+Related projects from previous years are Learning Dynamics in Social Dilemmas of FS2012 and the Axelrod Tournament of FS2011.
+
 ## Research Methods
 
-Discrete modelling, learning models, social value models and Bayesian models.
+Discrete modelling, learning models, social value models and Bayesian learning models.
 
 ## Other
 
-Data on PD games is widely available in many books and papers.
+Data on PD games is widely available in many books and papers. The book by Rapoport and Chammah (1965) contains sufficient data for carrying out this project, but PG games have been a topic of research for many recent years.
